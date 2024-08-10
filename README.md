@@ -88,11 +88,11 @@ git clone https://github.com/your-username/web-scraping-data-cleaning.git
   - Processes the reviews count column by removing '-' signs and converting values to integers.
  
 ## Requirements
-- **`selenium`**:
-- **`webdriver-manager`**:
-- **`geopy`**:
-- **`shapely `**:
-- **`google-colab `**:
+- **`selenium`**
+- **`webdriver-manager`**
+- **`geopy`**
+- **`shapely `**
+- **`google-colab `**
 
 ## Contributing
 
