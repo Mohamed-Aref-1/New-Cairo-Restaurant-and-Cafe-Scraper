@@ -86,6 +86,12 @@ git clone https://github.com/your-username/web-scraping-data-cleaning.git
   
 - **`remove_negative_sign_reviews.py`**:
   - Processes the reviews count column by removing '-' signs and converting values to integers.
+ 
+## Requirements
+    ```sh pandas
+selenium
+webdriver-manager
+google-colab    ```
 
 ## Contributing
 
