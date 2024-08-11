@@ -59,12 +59,10 @@ finally:
     driver.quit()
 
 # Save data to CSV
-csv_file = "new_cairo_restaurants_and_cafes.csv"
+csv_file = r"F:\Atos study group\Scrapper\demo\New_Cairo_Restaurants\new_cairo_restaurants_and_cafes.csv"
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(["Restaurant Name", "Star Rating", "Reviews Count", "Latitude", "Longitude", "URL"])
     writer.writerows(data)
 
 print(f"Data saved to {csv_file}")
-
-
