@@ -4,6 +4,10 @@
 
 This project includes a collection of scripts for web scraping, data extraction, and cleaning. The main functionalities are to scrape restaurant and cafe data from Google Maps, clean CSV files by removing non-Latin characters and missing values, and process reviews count columns.
 
+
+https://github.com/user-attachments/assets/176841d6-33f9-4e5b-9bfc-550e295de7a0
+
+
 ## Project Components
 
 ### Web Scraping
